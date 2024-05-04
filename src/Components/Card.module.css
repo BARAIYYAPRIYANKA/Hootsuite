@@ -1,0 +1,19 @@
+.bottom{
+    margin-top: 20px;
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    width: 180px;
+    margin-top: 10px;
+}
+.num{
+    font-weight: bolder;
+    margin-top: 20px;
+}
